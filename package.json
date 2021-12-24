@@ -1,0 +1,28 @@
+{
+  "type": "module",
+  "name": "randomanimalfacts",
+  "version": "1.0.0",
+  "description": "a little npm package that can fetch random animal facts!",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DevinThePancake/randomfmylife.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fun",
+    "facts",
+    "funfacts",
+    "animal",
+    "animalfacts",
+    "animalfunfacts",
+    "randomanimalfunfacts"
+  ],
+  "author": "spraldev",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.1.0"
+  }
+}
