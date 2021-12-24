@@ -1,12 +1,12 @@
 {
   "type": "module",
   "name": "randomanimalfacts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a little npm package that can fetch random animal facts!",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/DevinThePancake/randomfmylife.git"
+    "url": "https://github.com/spraldev/randomfacts.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
